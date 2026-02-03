@@ -15,7 +15,7 @@ O projeto tem por finalidade modelar um sistema de smartphones utilizando Progra
 
 ## 🚀 Como rodar
 1. Certifique-se de ter o **SDK do .NET 6.0** (ou superior) instalado.
-2. Clone o repositório.
+2. Clone o repositório .
 3. No terminal, acesse a pasta do projeto e execute:
    ```bash
    dotnet run
